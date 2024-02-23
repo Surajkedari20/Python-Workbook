@@ -1,6 +1,3 @@
-Sure, here's a description you can use for the README file of your Python Workbook for GitHub:
-
----
 
 # Python Workbook
 
